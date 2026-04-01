@@ -31,6 +31,8 @@ Face/ # Root folder
 - Folder names are automatically converted into labels.
 
 ---
+<img width="508" height="482" alt="image" src="https://github.com/user-attachments/assets/c11b6ef1-ee40-4383-8b07-2e78ee42756c" />
+
 
 ## Technologies
 - Python 3.x
